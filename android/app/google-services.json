@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634930186629",
+    "project_id": "amplifyauthh",
+    "storage_bucket": "amplifyauthh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634930186629:android:60dbf3c5e0537af2ad5cec",
+        "android_client_info": {
+          "package_name": "com.example.awstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634930186629-r66t1vu0mpt8i3g3gmp1m1buvdbuonp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpavrcHsOvnI_janHNe5Z2LgK_MlthG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634930186629-r66t1vu0mpt8i3g3gmp1m1buvdbuonp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
